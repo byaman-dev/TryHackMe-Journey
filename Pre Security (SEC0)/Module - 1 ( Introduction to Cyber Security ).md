@@ -147,20 +147,6 @@ As technology continues to evolve, cybersecurity professionals are expected to c
 
 ---
 
-# 🛠 Skills Gained
-
-By completing this module, I developed foundational knowledge in:
-
-* Cybersecurity terminology
-* Security principles
-* Offensive vs Defensive Security
-* Security career awareness
-* Risk-based thinking
-* Security mindset
-* Professional ethics
-
----
-
 # 🌐 Real-World Applications
 
 The knowledge gained in this module supports future work in areas such as:
@@ -174,31 +160,6 @@ The knowledge gained in this module supports future work in areas such as:
 * Network Security
 * Secure Software Development
 * Governance, Risk & Compliance (GRC)
-
----
-
-# 🧭 Knowledge Map
-
-```text
-Cyber Security
-│
-├── Offensive Security
-│   ├── Penetration Testing
-│   ├── Red Teaming
-│   └── Vulnerability Assessment
-│
-├── Defensive Security
-│   ├── SOC
-│   ├── Incident Response
-│   ├── Threat Detection
-│   └── Digital Forensics
-│
-└── Career Development
-    ├── Technical Skills
-    ├── Certifications
-    ├── Practical Labs
-    └── Continuous Learning
-```
 
 ---
 
@@ -235,16 +196,6 @@ It also prepares learners for advanced TryHackMe learning paths such as Security
 * Defensive security focuses on prevention, detection, and response.
 * Cybersecurity is a multidisciplinary field with diverse career opportunities.
 * Continuous learning and ethical responsibility are essential for long-term success.
-
----
-
-# 📖 Further Reading
-
-* TryHackMe Learning Paths
-* Cisco Networking Academy
-* Microsoft Learn
-* OWASP Foundation
-* NIST Cybersecurity Framework
 
 ---
 
