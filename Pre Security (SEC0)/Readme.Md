@@ -43,6 +43,8 @@ Throughout this path, I developed an understanding of:
 
 ## 📂 Repository Structure
 
+```text
+
 modules/
 │
 ├── 01-introduction-to-cyber-security/
@@ -52,6 +54,8 @@ modules/
 ├── 05-operating-system-basics/
 ├── 06-software-basics/
 └── 07-security-principles/
+
+```
 
 ---
 
