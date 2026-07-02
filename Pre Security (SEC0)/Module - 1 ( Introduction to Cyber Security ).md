@@ -42,20 +42,6 @@ This module consists of the following rooms:
 
 ---
 
-# 🗂 Repository Structure
-
-```text
-01-introduction-to-cyber-security/
-│
-├── README.md
-├── offensive-security-intro.md
-├── defensive-security-intro.md
-├── careers-in-cyber.md
-└── images/
-```
-
----
-
 # 🌍 Why Cyber Security Matters
 
 Modern society depends on digital infrastructure.
