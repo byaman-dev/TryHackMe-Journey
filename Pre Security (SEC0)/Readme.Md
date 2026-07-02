@@ -1,79 +1,109 @@
 # 🔰 Pre Security
 
-## Overview
-
-The Pre Security learning path introduced me to the fundamental concepts required before studying cybersecurity in depth.
-
-The goal of this path was to understand how computers, operating systems, networks, and the web function before moving into security-focused topics.
+> My documentation and learning notes from completing the **TryHackMe Pre Security** learning path.
 
 ---
 
-## Topics Covered
+## 📖 Overview
 
-• Networking Basics
+The **Pre Security** learning path builds the foundational knowledge required before moving into practical cybersecurity.
 
-• Linux Fundamentals
+This repository contains my personal notes, summaries, command references, and screenshots created while reviewing the topics covered in the path.
 
-• Windows Fundamentals
-
-• Web Fundamentals
-
-• Cybersecurity Basics
-
-• Internet Fundamentals
+> **Status:** ✅ Completed
 
 ---
 
-## Skills Developed
+## 🎯 Learning Objectives
 
-✔ Linux Command Line
+Throughout this path, I developed an understanding of:
 
-✔ IP Addressing
-
-✔ DNS
-
-✔ HTTP & HTTPS
-
-✔ File Permissions
-
-✔ Virtual Machines
-
-✔ Basic Security Concepts
-
-✔ Networking
+* Cybersecurity fundamentals
+* Computer hardware and software basics
+* Networking fundamentals
+* Internet and web technologies
+* Operating systems
+* Core security concepts
 
 ---
 
-## Tools Used
+## 📚 Modules
 
-Windows 11
-
-Kali Linux
-
-VirtualBox
-
-Nmap
-
-Wireshark
-
-Browser Developer Tools
+| Module                                                                 | Status      |
+| ---------------------------------------------------------------------- | ----------- |
+| Introduction to Cyber Security                                         | ✅ Completed |
+| Network Fundamentals                                                   | ✅ Completed |
+| How the Web Works                                                      | ✅ Completed |
+| Computer Fundamentals                                                  | ✅ Completed |
+| Operating System Basics                                                | ✅ Completed |
+| Software Basics                                                        | ✅ Completed |
+| Security Principles *(or the equivalent final module in your version)* | ✅ Completed |
 
 ---
 
-## Biggest Takeaways
+## 📂 Repository Structure
 
-Networking is the foundation of cybersecurity.
-
-Linux is an essential skill.
-
-Understanding how systems work is more important than memorizing commands.
-
-Documentation greatly improves long-term retention.
+```text
+modules/
+│
+├── 01-introduction-to-cyber-security/
+├── 02-network-fundamentals/
+├── 03-how-the-web-works/
+├── 04-computer-fundamentals/
+├── 05-operating-system-basics/
+├── 06-software-basics/
+└── 07-security-principles/
+```
 
 ---
 
-## Reflection
+## 🛠 Skills Practiced
 
-Completing the Pre Security path gave me a strong understanding of computers, operating systems, networking, and the internet.
+* Linux basics
+* Windows basics
+* Networking
+* TCP/IP
+* DNS
+* HTTP & HTTPS
+* IP Addressing
+* Virtual Machines
+* Basic command-line usage
+* Cybersecurity terminology
 
-This path prepared me to begin more practical learning through the Security Engineer path.
+---
+
+## 🧰 Tools Used
+
+* Kali Linux
+* Windows 11
+* VirtualBox
+* Terminal
+* Browser Developer Tools
+* Nmap *(where applicable)*
+* Wireshark *(where applicable)*
+
+---
+
+## 📝 Notes
+
+The notes in this repository are written in my own words and are intended as a personal knowledge base.
+
+This repository does **not** include:
+
+* Room walkthroughs
+* Task answers
+* Flags
+* Passwords
+* Challenge solutions
+
+---
+
+## 📌 Learning Outcome
+
+Completing the Pre Security path strengthened my understanding of how computers, networks, operating systems, and the web function together. These fundamentals provide the base required for more advanced cybersecurity topics covered in later learning paths such as **Security Engineer**.
+
+---
+
+## 📜 Disclaimer
+
+This repository is for educational purposes only and respects TryHackMe's content policy.
