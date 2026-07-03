@@ -56,28 +56,34 @@ Every room I complete is accompanied by personal notes, practical exercises, and
 # 📂 Repository Structure
 
 ```
-tryhackme-journey/
+
+TryHackMe-Journey
 │
 ├── README.md
 │
-├── sec-0/
+├── Pre Security (SEC0)
 │   ├── README.md
-│   ├── linux-fundamentals.md
-│   ├── windows-fundamentals.md
-│   ├── networking-basics.md
-│   └── screenshots/
+│   ├── 01 - Introduction to Cyber Security.md
+│   ├── 02 - Network Fundamentals.md
+│   ├── ...
 │
-├── sec-1/
+├── Junior Penetration Tester (SEC1)
+│   ├── README.md
+│   ├── 01 - Introduction.md
+│   ├── 02 - Linux Fundamentals.md
+│   ├── ...
 │
-├── notes/
-│   ├── commands.md
-│   ├── cheatsheets.md
-│   ├── lessons-learned.md
-│   └── resources.md
+├── SOC Level 1
+│   ├── README.md
+│   └── ...
 │
-└── images/
-```
+├── Web Fundamentals
+│   ├── README.md
+│   └── ...
+│
+└── Images
 
+```
 ---
 
 # 🏠 Lab Environment
