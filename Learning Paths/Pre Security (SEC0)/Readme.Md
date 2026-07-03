@@ -109,9 +109,19 @@ Completing the Pre Security path strengthened my understanding of how computers,
 
 ---
 
+## 📅 Timeline
+
+- **Completed Learning Path:** June 2026
+- **Documentation Created & Maintained:** July 2026 onwards
+- **Status:** ✅ Complete
+
+---
+
 ## 📜 Disclaimer
 
 This repository is for educational purposes only and respects TryHackMe's content policy.
+
+---
 
 
 Last Updated: July 2026
