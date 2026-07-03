@@ -2,6 +2,8 @@
 
 > My documentation and learning notes from completing the **TryHackMe Pre Security** learning path.
 
+![Status](https://img.shields.io/badge/TryHackMe-Pre%20Security-success?style=for-the-badge)
+
 ---
 
 ## 📖 Overview
@@ -45,15 +47,16 @@ Throughout this path, I developed an understanding of:
 
 ```text
 
-modules/
+Pre Security (SEC0)
 │
-├── 01-introduction-to-cyber-security/
-├── 02-network-fundamentals/
-├── 03-how-the-web-works/
-├── 04-computer-fundamentals/
-├── 05-operating-system-basics/
-├── 06-software-basics/
-└── 07-security-principles/
+├── README.md
+├── 01 - Introduction to Cyber Security.md
+├── 02 - Network Fundamentals.md
+├── 03 - How the Web Works.md
+├── 04 - Computer Fundamentals.md
+├── 05 - Operating Systems Basics.md
+├── 06 - Software Basics.md
+└── 07 - Attacks and Defences.md
 
 ```
 
@@ -109,3 +112,6 @@ Completing the Pre Security path strengthened my understanding of how computers,
 ## 📜 Disclaimer
 
 This repository is for educational purposes only and respects TryHackMe's content policy.
+
+
+Last Updated: July 2026
