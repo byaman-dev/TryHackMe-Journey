@@ -1,0 +1,112 @@
+# 🔍 Investigation Techniques
+
+> Practical investigation techniques reinforced during the **TryHackMe Sakura** room.
+
+---
+
+## 🧭 Investigation Workflow
+
+```text
+Question
+   │
+   ▼
+Gather Clues
+   │
+   ▼
+Research
+   │
+   ▼
+Correlate
+   │
+   ▼
+Verify
+   │
+   ▼
+Document
+```
+
+---
+
+## 1️⃣ Start Broad
+
+Begin with general information.
+
+Examples:
+
+- Person
+- Company
+- Website
+- Location
+
+---
+
+## 2️⃣ Follow Every Lead
+
+Potential leads include:
+
+- 👤 Usernames
+- 🌐 Domains
+- 📧 Email addresses
+- 🏢 Organisations
+- 📍 Locations
+
+---
+
+## 3️⃣ Cross-Reference
+
+Never trust a single source.
+
+Instead:
+
+- ✔ Compare
+- ✔ Verify
+- ✔ Validate
+
+---
+
+## 4️⃣ Timeline Analysis
+
+Arrange information chronologically.
+
+This often reveals:
+
+- Relationships
+- Behaviour
+- Missing information
+
+---
+
+## 5️⃣ Profile Correlation
+
+Compare:
+
+- Profile pictures
+- Usernames
+- Bios
+- Links
+- Shared information
+
+---
+
+## 6️⃣ Document Everything
+
+Maintain notes including:
+
+- 📌 Sources
+- 📝 Observations
+- ✔ Verified findings
+- ❓ Questions
+
+---
+
+# ⭐ Best Practices
+
+✅ Stay ethical
+
+✅ Verify information
+
+✅ Think critically
+
+✅ Record evidence
+
+✅ Respect privacy
