@@ -1,0 +1,81 @@
+# 📝 Notes
+
+> Quick revision notes and key concepts learned from the **TryHackMe Sakura** room.
+
+---
+
+## 🎯 Purpose
+
+This document contains concise notes for future revision. It focuses on concepts, investigative thinking, and lessons learned rather than challenge-specific solutions.
+
+---
+
+# 🌐 Digital Footprints
+
+Digital footprints are traces of information left across the internet.
+
+### Common Sources
+
+- 🌍 Websites
+- 👤 Social Media
+- 💻 GitHub
+- 🌐 Domain Registrations
+- 📰 News Articles
+- 📄 Public Documents
+- 📷 Images
+
+---
+
+# 🔗 Information Correlation
+
+Instead of relying on a single clue:
+
+1. Collect information
+2. Compare evidence
+3. Verify findings
+4. Draw conclusions
+
+> 💡 **Remember:** Small clues become valuable when connected together.
+
+---
+
+# ✅ Source Verification
+
+Always confirm information using multiple reliable sources.
+
+### Good Practice
+
+- ✔ Cross-check information
+- ✔ Compare independent sources
+- ✔ Validate before documenting
+
+### Avoid
+
+- ❌ Making assumptions
+- ❌ Trusting one website
+- ❌ Ignoring conflicting evidence
+
+---
+
+# 🧠 Investigation Mindset
+
+Successful investigations require:
+
+- 🔍 Observation
+- 🧩 Curiosity
+- 📚 Research
+- 📝 Documentation
+- ✔ Verification
+
+---
+
+# ⭐ Key Lessons
+
+- Information is more valuable when verified.
+- Multiple clues provide stronger evidence.
+- Patience leads to better investigations.
+- Documentation improves repeatability.
+
+---
+
+> 📌 **Revision Tip:** Review these notes before attempting another OSINT room.
